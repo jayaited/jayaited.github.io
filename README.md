@@ -1,6 +1,6 @@
 ### Welcome to *jayaited.github.io*
 ---
-My favorite stuff
+Hi! I am Jay. I'm a human.
 - ice cream
 - anime
 - studying
