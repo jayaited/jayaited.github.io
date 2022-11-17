@@ -1,4 +1,9 @@
-### Welcome to *jayaited.github.io*
-	Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+## Welcome to *jayaited.github.io*
+      Notes 🗒️ ✔️
+
+
+### To do list:
+```
+- [ ] Review
+- [ ] Study
+
