@@ -10,6 +10,10 @@
 ### STREEEEAMMMMMM TWICEEEE: 💗
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6jqx9kZgPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[`Pop!`](https://www.youtube.com/watch?v=f6YDKF0LVWw)
+[`Celebrate`](https://www.youtube.com/watch?v=fMIn43MiwG8)
+[`Queen of Hearts`](https://www.youtube.com/watch?v=Q4Rb5_kjS2M)
+
 ### SPOTIFY PLAYLISTTTTT: 🎵
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HfpT5uPBk8Tn4rUTHVoka?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -24,16 +28,16 @@
 | Music | Sing 🎤 |
 
 ### Academic and Extracurricular Goals for Junior High School: 🏆
-- [x] Reach With Highest Honors - done ✅ 4x (G7 - 1, G8 - 3)
-- [x] Consistent With Highest Honors in a grade level - done ✅ (Grade 8)
-- [ ] Reach Straight A+'s
-- [x] Be the Class President - done ✅ (G7 and 9)
-- [x] Be part of a publication - done ✅ (AML)
-- [x] Compete in a school level contest - done ✅ (G9)
-- [ ] Compete in a division level contest
-- [ ] Compete in a regional level contest
-- [ ] Compete in a national level contest
-- [ ] Compete in an international level contest
-- [x] Join 3 clubs/organizations or more - done ✅ (CSA, AML, LGO)
-- [ ] Get the 🥇 Ignatius Excellence Gold medallion 🎖️
-- [ ] Get a scholarship for ADNU Senior High School
+- [x]  Reach With Highest Honors - done ✅ 4x (G7 - 1, G8 - 3)
+- [x]  Consistent With Highest Honors in a grade level - done ✅ (Grade 8)
+- [ ]  Reach Straight A+'s
+- [x]  Be the Class President - done ✅ (G7 and 9)
+- [x]  Be part of a publication - done ✅ (AML)
+- [x]  Compete in a school level contest - done ✅ (G9)
+- [ ]  Compete in a division level contest
+- [ ]  Compete in a regional level contest
+- [ ]  Compete in a national level contest
+- [ ]  Compete in an international level contest
+- [x]  Join 3 clubs/organizations or more - done ✅ (CSA, AML, LGO)
+- [ ]  Get the 🥇 Ignatius Excellence Gold medallion 🎖️
+- [ ]  Get a scholarship for ADNU Senior High School
