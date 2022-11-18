@@ -6,5 +6,8 @@
 
 [`Facebook`](https://www.facebook.com/profile.php?id=100076401044632) [`Instagram`](https://www.instagram.com/jayaited/) [`Twitter`](https://twitter.com/jayjalani_)
 
-Listen:
+STREEEEAMMMMMM TWICEEEE: 💗
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6jqx9kZgPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+SPOTIFY PLAYLISTTTTT: 🎵
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HfpT5uPBk8Tn4rUTHVoka?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
