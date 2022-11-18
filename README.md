@@ -41,3 +41,12 @@
 - [x]  Join 3 clubs/organizations or more - done ✅ (CSA, AML, LGO)
 - [ ]  Get the 🥇 Ignatius Excellence Gold medallion 🎖️
 - [ ]  Get a scholarship for ADNU Senior High School
+
+## ❕NOTES 📝
+🙇‍♂️ Favorite things 🗒️
+1. her eyes 👀
+2. her smile 😃
+3. her voice 🎙️
+
+       Q: Why study math if I can study ur heart >>
+       
