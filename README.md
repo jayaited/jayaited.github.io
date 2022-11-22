@@ -52,6 +52,9 @@ Person: `siya sir /j`
 `Wanna Play a Game?`
 <iframe src="https://funhtml5games.com?embed=flappy" style="width:800px;height:520px;border:none;" frameborder="0" scrolling="no"></iframe>
 
+`Playlist`
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HfpT5uPBk8Tn4rUTHVoka?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 `TWICE “SCIENTIST” M/V`
